@@ -1,4 +1,4 @@
-Paint Rental System Backend
+Paint Rental System 
 This project was developed as a final term project for the Database Systems course (CSE34) and it was developed using Oracle SQL and Database Management skills. The main objective of this project was to design and develop an efficient database backend for a paint rental system.
 
 Features
